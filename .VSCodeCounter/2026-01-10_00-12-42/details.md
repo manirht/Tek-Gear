@@ -2,7 +2,7 @@
 
 Date : 2026-01-10 00:12:42
 
-Directory /Users/rishirohilla/Desktop/crypto/RishiGithubOnly/TekGear/client
+Directory /Users/chennakesavulam/Desktop/crypto/RishiGithubOnly/TekGear/client
 
 Total : 30 files,  8182 codes, 148 comments, 480 blanks, all 8810 lines
 
